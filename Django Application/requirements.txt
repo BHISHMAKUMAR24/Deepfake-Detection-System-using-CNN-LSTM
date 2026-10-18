@@ -1,0 +1,9 @@
+Django>=4.2.0,<6.0.0
+torch
+torchvision
+opencv-python>=4.8.0,<5.0.0
+numpy
+Pillow
+
+matplotlib
+
